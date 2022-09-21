@@ -1,0 +1,6 @@
+.envrc!/consumer/.envrc
+!/producer/.envrc
+!/shipyard/terraform/.envrc
+!/shipyard/terraform/terraform.tfstate
+!/shipyard/terraform/terraform.tfstate.backup
+!/shipyard/terraform/.terraform/
